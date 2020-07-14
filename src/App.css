@@ -1,0 +1,74 @@
+  
+.App {
+    font-family: 'Rockwell';
+  }
+  
+  .header-container {
+    padding: 8px;
+    font-family: 'Rockwell';
+  }
+  
+  .jumbotron-fluid {
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Rockwell';
+  }
+  .table {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: grey;
+    font-family: 'Rockwell';
+  }
+  
+  .display {
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 20px;
+    border: 2px solid grey;
+    border-radius: 30px;
+    background: white;
+  }
+  
+  .employee-image {
+    border: solid grey 2px;
+    border-radius: 30px;
+  }
+  
+  .employee-name {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  .form-group {
+    text-align: center;
+    font-family: 'Rockwell';
+  }
+  
+  .form-control {
+    display: flex;
+    justify-content: 'center';
+    align-items: 'center';
+    width: 500px;
+  }
+  
+  .form-container {
+    margin: 0 auto;
+    align-self: center;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .results {
+    border: 2px solid black;
+    background: white;
+  }
